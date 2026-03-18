@@ -58,7 +58,7 @@ Contém a lógica de cálculo da conta.
 1. Clone o repositório
 
 ```
-git clone https://github.com/seu-usuario/poo-conta-do-bar.git
+git clone https://github.com/0utLunar/poo-conta-do-bar.git
 ```
 
 2. Abra em uma IDE Java (IntelliJ, Eclipse ou VSCode)
